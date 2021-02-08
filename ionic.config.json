@@ -1,0 +1,7 @@
+{
+  "name": "Swipe error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
